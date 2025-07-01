@@ -1,0 +1,6 @@
+git init
+git add app.py
+git commit -m "primeiro commit"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/grafico-streamlit.git
+git push -u origin main
